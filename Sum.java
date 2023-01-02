@@ -3,7 +3,8 @@ class Sum{
         int a = 3;
         int b = 11;
         int c = 25;
-        System.out.println(a+b+c);// sumation
+        int d = 10;
+        System.out.println(a+b+c+d);// sumation
         System.out.println(a+c);
         
         ab
